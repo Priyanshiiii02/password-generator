@@ -245,6 +245,7 @@ h1 {
 }
 .copyBtn{
     position: relative;
+    background-color:transparent;
 }
 .copyMsg.active{
     opacity: 1;
